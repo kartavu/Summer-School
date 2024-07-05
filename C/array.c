@@ -137,6 +137,9 @@ int main() {
             printf("\n");
             break;
         }
+        default:
+            printf("Неверный номер задания.\n");
+            break;
     }
 
     return 0;

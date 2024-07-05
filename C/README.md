@@ -5,3 +5,6 @@
 
 ## Массивы
     make array
+
+## Указатели
+    make pointer

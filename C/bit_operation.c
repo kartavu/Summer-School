@@ -118,6 +118,9 @@ int main() {
             changebyte(byte, new_byte);
             break;
         }
+        default:
+            printf("Неверный номер задания.\n");
+            break;
     }
     
     return 0;
