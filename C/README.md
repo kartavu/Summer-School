@@ -1,5 +1,7 @@
 ## Обозначения
 
 ## Битовые Операции 
-    bit_operation 
+    make bit_operation
 
+## Массивы
+    make array

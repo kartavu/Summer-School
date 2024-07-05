@@ -1,5 +1,6 @@
 # Summer-School
 
 ## C
-    Битовые Операции
-
+    Makefile:
+    Битовые Операции –– bit_operation
+    Массивы –– array
