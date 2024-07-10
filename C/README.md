@@ -11,3 +11,6 @@
 
 ## Структуры
     make struct
+
+## Функции 
+    make struct

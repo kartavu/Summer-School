@@ -6,3 +6,4 @@
     Массивы –– array
     Указатели –– pointer
     Структуры –– struct
+    Функции –– struct
