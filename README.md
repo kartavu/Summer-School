@@ -10,3 +10,4 @@
 ## System Programming
     Makefile:
         Динамическая Память –– dynamic
+        Статические Библиотеки
